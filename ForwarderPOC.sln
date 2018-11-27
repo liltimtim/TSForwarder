@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForwarderPOC", "ForwarderPOC\ForwarderPOC.csproj", "{56B6EDA4-98B5-4BB2-920A-94CD55998FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B6EDA4-98B5-4BB2-920A-94CD55998FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B6EDA4-98B5-4BB2-920A-94CD55998FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B6EDA4-98B5-4BB2-920A-94CD55998FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B6EDA4-98B5-4BB2-920A-94CD55998FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
