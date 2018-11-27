@@ -38,9 +38,9 @@ namespace ForwarderPOC.Controllers
         }
     }
 
-    [Route("api/[controller]")]
+    [Route("api/forward")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class RequestForwardingController : ControllerBase
     {
         // GET api/values
         [HttpGet]
